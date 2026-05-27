@@ -23,6 +23,10 @@ My focus is on architecting automated ETL pipelines, deploying advanced statisti
 * **Architecture:** Engineered an end-to-end R pipeline (`tidyverse`, `readxl`) with intelligent routing to scrape, normalize, and merge inconsistent Excel sheets.
 * **Business Impact:** Built a statistical diagnostic engine calculating blended rent variances, Z-scores, and standard deviations. Automated the generation of paginated executive PDF tear sheets (`ggplot2`, `gridExtra`), exposing a highly volatile 11.69% margin of error in underwriting and enabling targeted sales accountability.
 
+![Dumbbell Curve](https://github.com/aljoveda/B2B-Variance-Engine/blob/main/Dumbell%20curve.png?raw=true)
+
+![Box plot variance per salesperson](https://github.com/aljoveda/B2B-Variance-Engine/blob/main/Variance%20per%20sales%20rep.png?raw=true)
+
 #### 2. [B2B Conversion Survival Analysis](link-to-repository)
 * **Objective:** Correct executive misconceptions regarding pipeline win rates and identify true operational bottlenecks using right-censored CRM data.
 * **Methodology:** Deployed a Kaplan-Meier survival curve model to establish an accurate sales lifecycle and conversion baseline.
