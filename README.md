@@ -1,4 +1,4 @@
-# Hi, I'm Aldo Velázquez D. 👋
+# Hi, I'm Aldo J. Velázquez 👋
 
 ### Data Analyst | Revenue Operations | Business Intelligence
 
