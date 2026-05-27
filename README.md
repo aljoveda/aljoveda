@@ -18,7 +18,7 @@ My focus is on architecting automated ETL pipelines, deploying advanced statisti
 
 ### 🚀 Featured Portfolio Projects
 
-#### 1. [Automated B2B Deal Desk ETL Pipeline & Variance Engine](link-to-repository)
+#### 1. [Automated B2B Deal Desk ETL Pipeline & Variance Engine]([link-to-repository](https://aljoveda.github.io/B2B-Variance-Engine/))
 * **Objective:** Replace manual data entry and unstandardized data silos across a 6,000+ unit portfolio with an automated, error-resistant architecture.
 * **Architecture:** Engineered an end-to-end R pipeline (`tidyverse`, `readxl`) with intelligent routing to scrape, normalize, and merge inconsistent Excel sheets.
 * **Business Impact:** Built a statistical diagnostic engine calculating blended rent variances, Z-scores, and standard deviations. Automated the generation of paginated executive PDF tear sheets (`ggplot2`, `gridExtra`), exposing a highly volatile 11.69% margin of error in underwriting and enabling targeted sales accountability.
