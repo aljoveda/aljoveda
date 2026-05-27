@@ -27,15 +27,18 @@ My focus is on architecting automated ETL pipelines, deploying advanced statisti
 
 ![Box plot variance per salesperson](https://github.com/aljoveda/B2B-Variance-Engine/blob/main/Variance%20per%20sales%20rep.png?raw=true)
 
-#### 2. [B2B Conversion Survival Analysis](https://github.com/aljoveda/survival-curve-analysis/blob/main/CorDuro-Housing-Survival-curve-analysis-on-B2B-conversion-sales-rate.pdf?raw=true)
+#### 2. [B2B Conversion Survival Analysis](https://github.com/aljoveda/supporting-pdf/blob/main/CorDuro-Housing-Survival-curve-analysis-on-B2B-conversion-sales-rate.pdf?raw=true)
 * **Objective:** Correct executive misconceptions regarding pipeline win rates and identify true operational bottlenecks using right-censored CRM data.
 * **Methodology:** Deployed a Kaplan-Meier survival curve model to establish an accurate sales lifecycle and conversion baseline.
 * **Business Impact:** Proved a 30% conversion rate for existing partners (aligning with industry standards) while pinpointing a critical 51% upstream operational abandonment rate, redirecting organizational focus from late-stage execution to early-stage pipeline friction.
 
-#### 3. [Transit Infrastructure Economic Impact (Econometric Study)](link-to-repository)
-* **Objective:** Evaluate the economic impact of transit infrastructure on local commerce.
-* **Methodology:** Designed the econometric methodology for a Difference-in-Differences study. Established precise spatial treatment and control parameters (inner/outer geographic radii).
-* **Tools:** Sourced, cleaned, and structured georeferenced datasets (DENUE, INEGI), utilizing R and `ggplot2` to visualize spatial data distributions.
+#### 3. [Real Revenue Analysis (Multivariate Regression Model Proposal WIP)](https://github.com/aljoveda/supporting-pdf/blob/main/Proforma Accuracy and Real Revenue Analysis in Furnished Housing Solutions.pdf?raw=true)
+* **Objective:** Measure the reasons why real revenue varies from the initial proposals by the salesteam.
+* **Methodology:** Designed the econometric methodology for a Multivariate Regression Model. Established precise variable interactions.
+
+#### 4. [Predictive Modeling of B2B Pipeline Conversions (Logistic Regression Model Proposal WIP)](https://github.com/aljoveda/supporting-pdf/blob/main/Logistic Model - Variables.pdf?raw=true)
+* **Objective:** Design a predictive model that outputs a probability based on a set of negotiation tactics and conditions.
+* **Methodology:** Designed the econometric methodology for a Logistic Regression Model.
 
 ---
 
