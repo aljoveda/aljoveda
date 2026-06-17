@@ -27,7 +27,7 @@ My focus is on architecting automated ETL pipelines, deploying advanced statisti
 
 ![Box plot variance per salesperson](https://github.com/aljoveda/B2B-Variance-Engine/blob/main/Variance%20per%20sales%20rep.png?raw=true)
 
-#### 2. [Quarterly B2B Conversion Survival Analysis](https://aljoveda.github.io/B2B-Survival-Curves/)
+#### 2. [Quarterly B2B Conversion Survival Analysis](https://aljoveda.github.io/B2B-Survival-Curves/survival_curves.html)
 
 * **Objective:** Correct and validate executive misconceptions regarding pipeline win rates and identify true operational bottlenecks using right-censored CRM data.
 * **Methodology:** Deployed a Kaplan-Meier survival curve model to establish an accurate sales lifecycle and conversion baseline.
