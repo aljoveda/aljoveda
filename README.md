@@ -27,10 +27,11 @@ My focus is on architecting automated ETL pipelines, deploying advanced statisti
 
 ![Box plot variance per salesperson](https://github.com/aljoveda/B2B-Variance-Engine/blob/main/Variance%20per%20sales%20rep.png?raw=true)
 
-#### 2. [B2B Conversion Survival Analysis](https://github.com/aljoveda/supporting-pdf/blob/main/CorDuro-Housing-Survival-curve-analysis-on-B2B-conversion-sales-rate.pdf?raw=true)
-* **Objective:** Correct executive misconceptions regarding pipeline win rates and identify true operational bottlenecks using right-censored CRM data.
+#### 2. [B2B Conversion Survival Analysis First Release](https://aljoveda.github.io/B2B-Survival-Curves/)
+
+* **Objective:** Correct and validate executive misconceptions regarding pipeline win rates and identify true operational bottlenecks using right-censored CRM data.
 * **Methodology:** Deployed a Kaplan-Meier survival curve model to establish an accurate sales lifecycle and conversion baseline.
-* **Business Impact:** Proved a 30% conversion rate for existing partners (aligning with industry standards) while pinpointing a critical 51% upstream operational abandonment rate, redirecting organizational focus from late-stage execution to early-stage pipeline friction.
+* **Business Impact:** Proved a healthy conversion rate for new and existing partners in 2025-Q4 (aligning with industry standards) along a decreasing win rate for both new and existing partners through 2026-Q2.
 
 #### 3. [Real Revenue Analysis (Econometric Methodology & Variable Design)](https://github.com/aljoveda/supporting-pdf/blob/main/Proforma-Accuracy-and-Real-Revenue-Analysis-in-Furnished-Housing-Solutions.pdf?raw=true)
 * **Objective:** Measure the reasons why real revenue varies from the initial proposals by the salesteam.
